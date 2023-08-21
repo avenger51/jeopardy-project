@@ -1,0 +1,7 @@
+
+//Error #1:  Console complaining..Umass help said the API site is limiting my IP
+//Access to XMLHttpRequest at 'https://jservice.io/api/clues?category=23' from origin 'http://127.0.0.1:5500' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+//jquery:9930 
+//        
+//        
+//        GET https://jservice.io/api/clues?category=23 net::ERR_FAILED 429 (Too Many Requests)
